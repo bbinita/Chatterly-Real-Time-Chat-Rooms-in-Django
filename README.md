@@ -31,26 +31,3 @@ Start chatting in real time with others in the same room.
 ---
 
 
-##  Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/chatterly.git
-
-# Go to project folder
-cd chatterly
-
-# Create virtual environment
-python -m venv env
-env\Scripts\activate       # On Windows
-source env/bin/activate    # On Mac/Linux
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run migrations
-python manage.py migrate
-
-
-# Start the server
-python manage.py runserver
