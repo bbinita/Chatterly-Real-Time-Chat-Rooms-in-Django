@@ -35,10 +35,10 @@ Start chatting in real time with others in the same room.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/chatwave.git
+git clone https://github.com/yourusername/chatterly.git
 
 # Go to project folder
-cd chatwave
+cd chatterly
 
 # Create virtual environment
 python -m venv env
